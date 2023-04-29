@@ -1,4 +1,3 @@
-
 import "./currentWeather.css"
 
 export default function CurrentWeather() {
@@ -10,7 +9,7 @@ export default function CurrentWeather() {
           <p className="city">Belgrade</p>
           <p className="weather-description">Sunny </p>
         </div>
-        <img alt= "weather" className="weather-icon" src="/icons01.png" />
+        <img alt="weather" className="weather-icon" src="icons/sunAgain.png" />
       </div>
     </div>
   )
