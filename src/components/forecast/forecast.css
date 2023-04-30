@@ -25,16 +25,19 @@
   flex: 1 1;
   font-weight: 600;
   margin-left: 15px;
+  font-size: larger;
 }
 
 .description {
   flex: 1 1;
   margin-right: 15px;
   text-align: right;
+  font-size: larger;
 }
 
 .min-max {
   color: #757575;
+  font-size: larger;
 }
 
 
@@ -55,10 +58,13 @@
   height: 30px;
   justify-content: space-between;
   align-items: center;
+  font-size: larger;
+  font-weight: bold;
 }
 
 .daily-details-grid-item:first-child {
-  color: #757575;
+  color: #212121;
+
 }
 .daily-details-grid-item:last-child {
   color: #212121;
